@@ -36,3 +36,6 @@ A custom function selects key sentences based on scores to generate a short, med
 
 The approach is rule-based and extractive, relying on statistical features to choose sentences from the original text.
 
+*OUTPUT* :
+
+https://1drv.ms/i/c/2ac7be0d8cf56485/EaADv-DQGUVMjBPmsbDJe_sBy0wlKSn9gsH_lQtXc_3R8g?e=giFfxm
