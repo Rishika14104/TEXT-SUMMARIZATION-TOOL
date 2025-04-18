@@ -38,4 +38,6 @@ The approach is rule-based and extractive, relying on statistical features to ch
 
 *OUTPUT* :
 
+![Image](https://github.com/user-attachments/assets/3d535850-c16a-457b-b4e5-ecd94567b4eb)
+
 
