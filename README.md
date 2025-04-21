@@ -20,6 +20,8 @@ This tool is designed to automatically generate concise summaries from lengthy a
 
 ![Image](https://github.com/user-attachments/assets/2e15d6a7-7947-494d-a224-15f3abe441c6)
 
+![Image](https://github.com/user-attachments/assets/ebbc3ccc-1ad1-40ce-9bcb-a3ece22d7e5b)
+
 
 
 
